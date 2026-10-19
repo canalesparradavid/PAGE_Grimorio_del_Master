@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>Grimorio del Máster</title>
+  <rect width="512" height="512" fill="#481c28"/>
+  <g stroke-linejoin="round" stroke-linecap="round">
+    <path d="M139 99h223v326H146c-28 0-45-19-45-44V137c0-22 15-38 38-38Z" fill="#321d24" stroke="#bd9850" stroke-width="10"/>
+    <path d="M147 113h217v280H147c-18 0-30 11-30 24V141c0-16 12-28 30-28Z" fill="#762f3d" stroke="#d4b56c" stroke-width="9"/>
+    <path d="M150 130v244M165 138h181v233H165" fill="none" stroke="#a78142" stroke-width="4"/>
+    <path d="M143 402h211v14H143c-10 0-16-4-16-7s6-7 16-7Z" fill="#e5d2a2"/>
+    <path d="M183 145v24h-18M328 145v24h18M183 358v-24h-18M328 358v-24h18" fill="none" stroke="#d4b56c" stroke-width="7"/>
+    <path d="m256 187 69 40v81l-69 40-69-40v-81Z" fill="#d4b56c" stroke="#edd797" stroke-width="6"/>
+    <path d="m256 187-43 89h86Zm-69 40 26 49-26 32m138-81-26 49 26 32m-112-32 43 72 43-72m-112 0h86" fill="none" stroke="#72532c" stroke-width="4"/>
+    <path d="M236 244c0-10 21-10 21 0 0 7-19 11-19 19h20m9-22c0-10 16-10 16 0v15c0 10-16 10-16 0Z" fill="none" stroke="#481c28" stroke-width="5"/>
+    <path d="M112 166h25m-25 170h25" stroke="#d4b56c" stroke-width="9"/>
+  </g>
+</svg>

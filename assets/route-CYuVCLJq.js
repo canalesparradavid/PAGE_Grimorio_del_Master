@@ -1,0 +1,1 @@
+import{a as e}from"./index-BP_GUE5A.js";var t=e;export{t as component};
